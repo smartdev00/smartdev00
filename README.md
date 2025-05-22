@@ -62,7 +62,7 @@ Here are some of my notable projects:
 I love connecting with fellow developers and blockchain enthusiasts! Feel free to reach out to me through the following platforms:
 
 <!-- - [LinkedIn](your-linkedin-profile) -->
-- [Email](mailto:gladwynanderson95@gmail.com) `gladwynanderson95@gmail.com`
+<!-- - [Email](mailto:gladwynanderson95@gmail.com) `gladwynanderson95@gmail.com` -->
 - Telegram username `@smartdev00`
 - Discord username `smartdev00`
 
@@ -74,11 +74,11 @@ I am always looking for interesting projects to collaborate on. If you have an i
 
 Thank you for visiting my GitHub profile! 🚀
 
-<div align="center"> 
-<!--   <a href="mailto:pedro.sales.muniz@gmail.com"> -->
+<!-- <div align="center"> 
+  <a href="mailto:pedro.sales.muniz@gmail.com">
   <a href="mailto:gladwynanderson95@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-</div>
+</div> -->
 
 <hr/>
