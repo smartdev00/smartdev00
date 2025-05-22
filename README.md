@@ -26,7 +26,7 @@ I am a **Senior Software Engineer** with a passion for blockchain technology and
 - **Tools**: Git, Docker, CI/CD pipelines
 - **Blockchain**: Deep understanding of Solana and Ethereum architecture and DeFi protocols
 
-## Projects 📑
+<!-- ## Projects 📑
 
 Here are some of my notable projects:
 
@@ -50,7 +50,7 @@ Here are some of my notable projects:
 - [Solana Token Creation Platform](https://coinforge.fun): A platform to create Token 2022 on Solana.
   - Token creation using Token Extension Program
   - Using Helius RPC provider and @solana/web3.js@1 package
-  - Next.js
+  - Next.js -->
 <!-- - [Smart Copy Trading Bot](https://github.com/HereForYou/Smart-Copy-Trading-Bot): A bot designed to copy the trading of target wallet.
   - Monitoring wallet trading on Raydium and Jupiter dexes.
   - Notify the human-readable message on console
@@ -63,8 +63,8 @@ I love connecting with fellow developers and blockchain enthusiasts! Feel free t
 
 <!-- - [LinkedIn](your-linkedin-profile) -->
 - [Email](mailto:gladwynanderson95@gmail.com) `gladwynanderson95@gmail.com`
-- Telegram username `@Smart_Sol_Guru`
-- Discord username `smart_sol_guru`
+- Telegram username `@smartdev00`
+- Discord username `smartdev00`
 
 ## Let's Collaborate! 🤝
 
