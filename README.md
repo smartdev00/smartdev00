@@ -22,47 +22,14 @@ I am a **Senior Software Engineer** with a passion for blockchain technology and
 ## Skills 🧑‍💻
 
 - **Languages**: JavaScript, TypeScript, Rust, Python, Golang, C/C++, Java, Solidity
-- **Frameworks**: Anchor, Druid, Rocket, Hardhat, Gin, Spring, Next.js
-- **Tools**: Git, Docker, CI/CD pipelines
+- **Frameworks**: Anchor, Druid, Rocket, Hardhat, Gin, Spring, Next.js, Express, Koa
+- **Tools**: Git, Docker, K8s, CI/CD pipelines
 - **Blockchain**: Deep understanding of Solana and Ethereum architecture and DeFi protocols
-
-<!-- ## Projects 📑
-
-Here are some of my notable projects:
-
-- [Smart Solana Trading Bot](https://github.com/HereForYou/Solana-Trading-Bot): A comprehensive trading bot for the Solana ecosystem integrated with Telegram(@Smart_SOL_Trading_Bot).
-  - Token snipe on Raydium AMM Dex and pump.fun
-  - Auto buy the newly added liquidity token using Jupiter API
-  - Auto sell the token when it's profitabled
-  - Using Helius RPC provider and @solana/web3.js@1 package
-  - Typescript
-- [Arbitrage Bot](https://github.com/HereForYou/Smart-Solana-Arbitrage-Bot): An arbitrage trading bot that takes advantage of price differences.
-  - Fetching the token price from several dexes including Raydium, Meteora, Orca, Fluxbeam amd Openbook
-  - Auto buy from the dex with the lowest token price
-  - Auto sell from the dex with the highest token price
-  - Using Helius RPC provider and @solana/web3.js@1 package
-  - Typescript
-- [Snipe Bot](): A bot designed to snatch up new token launches instantly.
-  - Token sniping on several dexes including Raydium, Meteora, Orca, Fluxbeam amd Openbook
-  - Notify to the Telegram users using Telegram bot
-  - Using Quicknode RPC provider and @solana/web3.js@1 package
-  - Typescript
-- [Solana Token Creation Platform](https://coinforge.fun): A platform to create Token 2022 on Solana.
-  - Token creation using Token Extension Program
-  - Using Helius RPC provider and @solana/web3.js@1 package
-  - Next.js -->
-<!-- - [Smart Copy Trading Bot](https://github.com/HereForYou/Smart-Copy-Trading-Bot): A bot designed to copy the trading of target wallet.
-  - Monitoring wallet trading on Raydium and Jupiter dexes.
-  - Notify the human-readable message on console
-  - Using Quicknode RPC provider and @solana/web3.js@1 package
-  - Typescript -->
 
 ## Get in Touch 💬
 
 I love connecting with fellow developers and blockchain enthusiasts! Feel free to reach out to me through the following platforms:
 
-<!-- - [LinkedIn](your-linkedin-profile) -->
-<!-- - [Email](mailto:gladwynanderson95@gmail.com) `gladwynanderson95@gmail.com` -->
 - Telegram username `@smartdev00`
 - Discord username `smartdev00`
 
@@ -74,11 +41,5 @@ I am always looking for interesting projects to collaborate on. If you have an i
 
 Thank you for visiting my GitHub profile! 🚀
 
-<!-- <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
-  <a href="mailto:gladwynanderson95@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-</div> -->
 
 <hr/>
