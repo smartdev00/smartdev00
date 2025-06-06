@@ -19,6 +19,12 @@ I am a **Senior Software Engineer** with a passion for blockchain technology and
 - **Canvas Games**: Interactive plane games built using the HTML5 canvas element, where the player controls a plane navigating a dynamic, smoothly rendered 2D environment with real-time animations and physics.
 - **Solana Token Creation Platform** Platform that enables users to create tokens on the Solana blockchain through a simple input and click interface, requiring no technical knowledge.
 
+## Github Status
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=smartdev00&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smartdev00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=false" height="180" alt="languages graph"  />
+</div>
+
 ## Skills 🧑‍💻
 
 - **Languages**: JavaScript, TypeScript, Rust, Python, Golang, Android, Kotlin, C/C++, Java, Solidity
