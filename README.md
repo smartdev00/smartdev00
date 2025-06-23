@@ -38,8 +38,8 @@ I love connecting with fellow developers and blockchain enthusiasts! Feel free t
 
 - [Linkedin](https://sg.linkedin.com/in/gladwyn-anderson-b61886351)
 - [Portfolio](https://main-portfolio-two-orcin.vercel.app)
-- Telegram: `@smartdev00`
-- Discord: `smartdev00`
+<!-- - Telegram: `@smartdev00`
+- Discord: `smartdev00` -->
 
 ## Let's Collaborate! 🤝
 
