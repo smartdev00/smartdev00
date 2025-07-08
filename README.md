@@ -32,15 +32,6 @@ I am a **Senior Software Engineer** with a passion for blockchain technology and
 - **Tools**: Git, GitHub, GitLab, Docker, K8s, CI/CD pipelines
 - **Blockchain**: Deep understanding of Solana and Ethereum architecture DeFi protocols and trading strategy
 
-## Get in Touch 💬
-
-I love connecting with fellow developers and blockchain enthusiasts! Feel free to reach out to me through the following platforms:
-
-- [Linkedin](https://sg.linkedin.com/in/gladwyn-anderson-b61886351)
-- [Portfolio](https://main-portfolio-two-orcin.vercel.app)
-<!-- - Telegram: `@smartdev00`
-- Discord: `smartdev00` -->
-
 ## Let's Collaborate! 🤝
 
 I am always looking for interesting projects to collaborate on. If you have an idea or project in mind, don't hesitate to contact me!
