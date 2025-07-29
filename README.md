@@ -31,9 +31,10 @@ I am a **Senior Software Engineer** with a passion for blockchain technology and
 
 - **Languages**: JavaScript, TypeScript, Rust, Python, Golang, Android, Kotlin, C/C++, Java, Solidity
 - **Frameworks**: Anchor, Druid, Rocket, Hardhat, FastAPI, Gin, Spring, Node.js, Next.js, Express, Koa, Jetpack
+- **Database**: PostgreSQL, MySQL, MongoDB, Redis, SQLite, Firebase, Supabase, Redis
 - **Third-Party APIs**: Jupiter API, Bitquery, Dexscreener, Birdeye, Jito, Raydium SDK
 - **RPC Providers**: Yellowstone gRPC, Helius, QuickNode, Alchemy, Syndica
-- **Tools**: Git, GitHub, GitLab, Docker, Kubernetes, CI/CD pipelines
+- **Tools**: Git, GitHub, GitLab, Docker, Kubernetes, CI/CD pipelines, Nginx, Ngrok
 - **Blockchain**: Deep understanding of Solana and Ethereum architecture, DeFi protocols, and trading strategies
 
 ## Let's Collaborate! 🤝
